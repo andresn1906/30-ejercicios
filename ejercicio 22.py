@@ -16,7 +16,7 @@ while True:
         print("Ingresa sólo números")
         continue_=input("¿Deseas realizar otra operación (S/N)?: ").strip().upper()
         if continue_!="S":
-            print("Fin").
+            print("Fin")
             break
             
         
